@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/admin/layout,_N_T_/admin/settings/layout,_N_T_/admin/settings/branding/layout,_N_T_/admin/settings/branding/page,_N_T_/admin/settings/branding"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/admin/settings/branding/__PAGE__",
+    "/admin/settings/branding",
+    "/admin/settings",
+    "/admin",
+    "/_index",
+    "/_head"
+  ]
+}

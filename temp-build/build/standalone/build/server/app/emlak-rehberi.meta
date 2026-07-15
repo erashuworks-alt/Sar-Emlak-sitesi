@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/emlak-rehberi/layout,_N_T_/emlak-rehberi/page,_N_T_/emlak-rehberi"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/emlak-rehberi/__PAGE__",
+    "/emlak-rehberi",
+    "/_index",
+    "/_head"
+  ]
+}

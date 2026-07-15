@@ -1,0 +1,3 @@
+module.exports=[49846,a=>{"use strict";var b=a.i(87924),c=a.i(72131),d=a.i(50944);a.s(["default",0,function(){let a=(0,d.useRouter)();return(0,c.useEffect)(()=>{a.replace("/")},[a]),(0,b.jsx)("div",{className:"min-h-screen flex items-center justify-center bg-slate-50 dark:bg-slate-900",children:(0,b.jsx)("div",{className:"animate-pulse text-slate-400 font-medium",children:"Yönlendiriliyorsunuz..."})})}])}];
+
+//# sourceMappingURL=src_app_dashboard_page_tsx_04esg22._.js.map

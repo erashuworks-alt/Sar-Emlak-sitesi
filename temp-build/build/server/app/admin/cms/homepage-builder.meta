@@ -1,0 +1,17 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/admin/layout,_N_T_/admin/cms/layout,_N_T_/admin/cms/homepage-builder/layout,_N_T_/admin/cms/homepage-builder/page,_N_T_/admin/cms/homepage-builder"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/admin/cms/homepage-builder/__PAGE__",
+    "/admin/cms/homepage-builder",
+    "/admin/cms",
+    "/admin",
+    "/_index",
+    "/_head"
+  ]
+}
